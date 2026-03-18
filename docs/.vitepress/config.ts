@@ -31,6 +31,7 @@ export default defineConfig({
           { text: 'ChatGPT', link: '/chatgpt' },
           { text: 'Goose', link: '/goose' },
           { text: 'Zapier', link: '/zapier' },
+          { text: 'Make', link: '/make' },
         ],
       },
       {

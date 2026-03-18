@@ -8,6 +8,7 @@ Connect VEED Fabric to your preferred AI assistant.
 - [Claude](./claude) - Anthropic's Claude
 - [Goose](./goose) - Block's Goose
 - [Zapier](./zapier) - Zapier MCP
+- [Make](./make) - Make.com MCP
 
 ## Documentation
 
